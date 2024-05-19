@@ -1,7 +1,7 @@
 # projectMIPS
 Making use of MIPS assembly. 
-Initialize array with user entered values.
-Print all values/locations of an array.
+Initializing array with user entered values.
+Printing all values/locations of an array.
 Computing the average of the array.
 Returns the max number saved in the array.
 Prints an appropriate message.
